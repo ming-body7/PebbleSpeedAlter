@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "gmbody7@gmail.com",
+    "longName": "SpeedAlert",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "SpeedAlert",
+    "uuid": "10bc1ace-c87b-478a-8d64-a4cd3e4ca528",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
